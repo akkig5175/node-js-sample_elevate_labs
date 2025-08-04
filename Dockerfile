@@ -1,4 +1,4 @@
-FROM node: 18
+FROM node:18
 # Set the working directory
 WORKDIR /user/src/app
 # Copy package.json and package-lock.json
